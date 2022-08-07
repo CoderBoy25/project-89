@@ -15,7 +15,15 @@ body {
 {
 	display: inline-block;
 	margin-left: 20px;
-	color: white
+	color: #ffffff
+}
+#player_question
+{
+	color: #ffffff
+}
+#player_answer
+{
+	color: #ffffff
 }
 #word
 {
